@@ -1,4 +1,3 @@
-import logo from "./logo.svg";
 import "./App.css";
 import TodoList from "./components/TodoList";
 import { createTheme, ThemeProvider } from "@mui/material/styles";
@@ -22,19 +21,19 @@ const initialTodos = [
   {
     id: uuidv4(),
     title: "قراءة كتاب",
-    details: "تيسمبتيس يتسبميتس بيمستب",
+    details: ",,,",
     isCompleted: false,
   },
   {
     id: uuidv4(),
     title: "قراءة كتاب",
-    details: "تيسمبتيس يتسبميتس بيمستب",
+    details: ",,,",
     isCompleted: false,
   },
   {
     id: uuidv4(),
     title: "قراءة كتاب",
-    details: "تيسمبتيس يتسبميتس بيمستب",
+    details: ",,,",
     isCompleted: false,
   },
 ];
